@@ -80,3 +80,4 @@ C:/Users/sunryze/Source/Repos/sunryze-git/SynthSharp/obj/Release/net6.0/SynthSha
 /Users/ty/Code/SynthSharp/bin/Release/net6.0/Content/Images/icon.xnb
 /Users/ty/Code/SynthSharp/bin/Release/net6.0/MonoGame.Extended.Tweening.dll
 /Users/ty/Code/SynthSharp/bin/Release/net6.0/Content/Images/background.xnb
+/Users/ty/Code/SynthSharp/obj/Release/net6.0/SynthSharp.sourcelink.json

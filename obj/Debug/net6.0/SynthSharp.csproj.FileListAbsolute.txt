@@ -129,3 +129,4 @@ C:/Users/sunryze/source/repos/sunryze-git/SynthSharp/bin/Debug/net6.0/FontStashS
 /Users/ty/Code/SynthSharp/bin/Debug/net6.0/Content/Images/icon.xnb
 /Users/ty/Code/SynthSharp/bin/Debug/net6.0/MonoGame.Extended.Tweening.dll
 /Users/ty/Code/SynthSharp/bin/Debug/net6.0/Content/Images/background.xnb
+/Users/ty/Code/SynthSharp/obj/Debug/net6.0/SynthSharp.sourcelink.json

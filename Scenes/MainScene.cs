@@ -14,7 +14,6 @@ using Newtonsoft.Json;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Runtime.CompilerServices;
 using Thickness = Myra.Graphics2D.Thickness;
 
 namespace SynthSharp;
