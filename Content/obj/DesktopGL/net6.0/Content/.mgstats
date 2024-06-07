@@ -1,0 +1,23 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/Users/ty/Code/SynthSharp/Content/click.mp3","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Content/click.xnb","SoundEffectProcessor","SoundEffectContent",13374,73833,0.411612
+"/Users/ty/Code/SynthSharp/Content/death.mp3","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Content/death.xnb","SoundEffectProcessor","SoundEffectContent",19200,92265,0.968856
+"/Users/ty/Code/SynthSharp/Content/Fonts/Renogare-Regular.ttf","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Content/Fonts/Renogare-Regular.ttf","CopyItem","File",47132,47132,0.000369
+"/Users/ty/Code/SynthSharp/Content/hit.mp3","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Content/hit.xnb","SoundEffectProcessor","SoundEffectContent",57600,276585,0.848656
+"/Users/ty/Code/SynthSharp/Content/Images/background.png","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Content/Images/background.xnb","TextureProcessor","Texture2DContent",135079,3686485,0.166475
+"/Users/ty/Code/SynthSharp/Content/Images/icon.png","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Content/Images/icon.xnb","TextureProcessor","Texture2DContent",953,262229,0.080008
+"/Users/ty/Code/SynthSharp/Content/Levels/levels.json","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Content/Levels/levels.json","CopyItem","File",1440,1440,0.000471
+"/Users/ty/Code/SynthSharp/Content/Music/2018.mp3","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Content/Music/2018.xnb","SongProcessor","SongContent",10156003,122,3.895588
+"/Users/ty/Code/SynthSharp/Content/Music/extrapole.mp3","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Content/Music/extrapole.xnb","SongProcessor","SongContent",8617128,127,3.479329
+"/Users/ty/Code/SynthSharp/Content/Music/illusions.mp3","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Content/Music/illusions.xnb","SongProcessor","SongContent",13335528,127,4.746846
+"/Users/ty/Code/SynthSharp/Content/Music/menu.mp3","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Content/Music/menu.xnb","SongProcessor","SongContent",2319527,122,1.841069
+"/Users/ty/Code/SynthSharp/Content/Music/socialmechwarrior.mp3","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Content/Music/socialmechwarrior.xnb","SongProcessor","SongContent",7797298,135,2.819483
+"/Users/ty/Code/SynthSharp/Content/Music/vape.mp3","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Content/Music/vape.xnb","SongProcessor","SongContent",10212643,122,3.866246
+"/Users/ty/Code/SynthSharp/Content/Textures/ball.png","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Content/Textures/ball.xnb","TextureProcessor","Texture2DContent",66554,518485,0.09057
+"/Users/ty/Code/SynthSharp/Content/Textures/brick_blue.png","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Content/Textures/brick_blue.xnb","TextureProcessor","Texture2DContent",207,16469,0.001737
+"/Users/ty/Code/SynthSharp/Content/Textures/brick_green.png","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Content/Textures/brick_green.xnb","TextureProcessor","Texture2DContent",203,16469,0.001536
+"/Users/ty/Code/SynthSharp/Content/Textures/brick_orange.png","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Content/Textures/brick_orange.xnb","TextureProcessor","Texture2DContent",225,16469,0.001518
+"/Users/ty/Code/SynthSharp/Content/Textures/brick_purple.png","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Content/Textures/brick_purple.xnb","TextureProcessor","Texture2DContent",204,16469,0.001056
+"/Users/ty/Code/SynthSharp/Content/Textures/brick_red.png","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Content/Textures/brick_red.xnb","TextureProcessor","Texture2DContent",260,16469,0.001267
+"/Users/ty/Code/SynthSharp/Content/Textures/brick_yellow.png","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Content/Textures/brick_yellow.xnb","TextureProcessor","Texture2DContent",219,16469,0.002748
+"/Users/ty/Code/SynthSharp/Content/Textures/paddle.png","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Content/Textures/paddle.xnb","TextureProcessor","Texture2DContent",241,16469,0.079975
+"/Users/ty/Code/SynthSharp/Content/Videos/bg.mp4","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Content/Videos/bg.xnb","VideoProcessor","VideoContent",1343799,240,0.814308

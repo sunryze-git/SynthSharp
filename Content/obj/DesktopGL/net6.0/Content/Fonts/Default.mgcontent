@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/sunryze/source/repos/sunryze-git/SynthSharp/Content/Fonts/Default.spritefont</SourceFile>
+  <SourceTime>2024-05-16T15:54:10.4805215-04:00</SourceTime>
+  <DestFile>C:/Users/sunryze/source/repos/sunryze-git/SynthSharp/Content/bin/DesktopGL/Content/Fonts/Default.xnb</DestFile>
+  <DestTime>2024-05-16T15:54:33.714423-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

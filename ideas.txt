@@ -1,0 +1,42 @@
+TODO Stuff:
+
+DONE:
+    - Menu Scene
+    - Death Scene
+    - Physics Mostly Working
+    - Organize Codebase
+    - Update Paddle Texture
+    - Button Click Sound
+    - Game Ball Movement Starts on click (will stay with paddle until then)
+    - Multiple Levels (preferrably 5 levels)
+        - System to detect when all blocks are destroyed, move onto next level
+
+TODO:
+    - Morphing Liquid Menu Background Video
+    - Improve Menu Circle Particles
+    - Difficulty System (changes maximum ball speed)
+        - Easy:     Can just be standard Game
+        - Medium:   Every block hit, the paddle width decreases slightly
+        - Hard:     Every block hit, paddle width decreases, and higher max speed
+        - Insane:   Very messed up physics???
+
+Block:
+    128x32
+
+Ball:
+    64x64
+
+Paddle:
+    128x32
+
+
+Rhythm Game Ideas
+    - RhythmTyper (Type to the ryhthm of song lyrics)
+        - Might be a bit difficult
+    - FNF Clone?
+
+
+Beatmap Save Data:
+
+1. Primary Data Table (Name, Length, BPM)
+2. Sequence (_MEASURE_TICK_ *note_pitch + note_type* _MEASURE_TICK_) // usage of measure ticks allow each BeatBlock to be understood

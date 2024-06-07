@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/Users/ty/Code/SynthSharp/Content/hit.wav</SourceFile>
+  <SourceTime>2024-05-20T10:53:23.6345686-04:00</SourceTime>
+  <DestFile>/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/hit.xnb</DestFile>
+  <DestTime>2024-05-21T09:55:49.9964033-04:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

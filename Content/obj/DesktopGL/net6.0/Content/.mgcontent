@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/ty/Code/SynthSharp/Content/click.mp3</File>
+    <File>/Users/ty/Code/SynthSharp/Content/death.mp3</File>
+    <File>/Users/ty/Code/SynthSharp/Content/hit.mp3</File>
+    <File>/Users/ty/Code/SynthSharp/Content/Images/background.png</File>
+    <File>/Users/ty/Code/SynthSharp/Content/Images/icon.png</File>
+    <File>/Users/ty/Code/SynthSharp/Content/Music/2018.mp3</File>
+    <File>/Users/ty/Code/SynthSharp/Content/Music/extrapole.mp3</File>
+    <File>/Users/ty/Code/SynthSharp/Content/Music/illusions.mp3</File>
+    <File>/Users/ty/Code/SynthSharp/Content/Music/menu.mp3</File>
+    <File>/Users/ty/Code/SynthSharp/Content/Music/socialmechwarrior.mp3</File>
+    <File>/Users/ty/Code/SynthSharp/Content/Music/vape.mp3</File>
+    <File>/Users/ty/Code/SynthSharp/Content/Textures/ball.png</File>
+    <File>/Users/ty/Code/SynthSharp/Content/Textures/brick_blue.png</File>
+    <File>/Users/ty/Code/SynthSharp/Content/Textures/brick_green.png</File>
+    <File>/Users/ty/Code/SynthSharp/Content/Textures/brick_orange.png</File>
+    <File>/Users/ty/Code/SynthSharp/Content/Textures/brick_purple.png</File>
+    <File>/Users/ty/Code/SynthSharp/Content/Textures/brick_red.png</File>
+    <File>/Users/ty/Code/SynthSharp/Content/Textures/brick_yellow.png</File>
+    <File>/Users/ty/Code/SynthSharp/Content/Textures/paddle.png</File>
+    <File>/Users/ty/Code/SynthSharp/Content/Videos/bg.mp4</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

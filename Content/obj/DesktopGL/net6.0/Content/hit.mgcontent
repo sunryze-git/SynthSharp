@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/Users/ty/Code/SynthSharp/Content/hit.mp3</SourceFile>
+  <SourceTime>2024-05-29T10:26:23.5790129-04:00</SourceTime>
+  <DestFile>/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Content/hit.xnb</DestFile>
+  <DestTime>2024-05-29T10:27:58.3288427-04:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,16 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/Users/ty/Code/SynthSharp/Content/ball.png","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/ball.xnb","TextureProcessor","Texture2DContent",66554,518485,0.120006
+"/Users/ty/Code/SynthSharp/Content/brick_blue.png","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/brick_blue.xnb","TextureProcessor","Texture2DContent",207,16469,0.001296
+"/Users/ty/Code/SynthSharp/Content/brick_green.png","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/brick_green.xnb","TextureProcessor","Texture2DContent",203,16469,0.001573
+"/Users/ty/Code/SynthSharp/Content/brick_orange.png","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/brick_orange.xnb","TextureProcessor","Texture2DContent",225,16469,0.001254
+"/Users/ty/Code/SynthSharp/Content/brick_purple.png","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/brick_purple.xnb","TextureProcessor","Texture2DContent",204,16469,0.000672
+"/Users/ty/Code/SynthSharp/Content/brick_red.png","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/brick_red.xnb","TextureProcessor","Texture2DContent",260,16469,0.000787
+"/Users/ty/Code/SynthSharp/Content/brick_yellow.png","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/brick_yellow.xnb","TextureProcessor","Texture2DContent",219,16469,0.002072
+"/Users/ty/Code/SynthSharp/Content/hit.wav","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/hit.xnb","SoundEffectProcessor","SoundEffectContent",441108,441105,0.425471
+"/Users/ty/Code/SynthSharp/Content/Music/2018.mp3","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Music/2018.xnb","SongProcessor","SongContent",10156003,122,3.827906
+"/Users/ty/Code/SynthSharp/Content/Music/extrapole.mp3","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Music/extrapole.xnb","SongProcessor","SongContent",8617128,127,3.339879
+"/Users/ty/Code/SynthSharp/Content/Music/illusions.mp3","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Music/illusions.xnb","SongProcessor","SongContent",13335528,127,4.803272
+"/Users/ty/Code/SynthSharp/Content/Music/menu.mp3","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Music/menu.xnb","SongProcessor","SongContent",2319527,122,1.731015
+"/Users/ty/Code/SynthSharp/Content/Music/socialmechwarrior.mp3","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Music/socialmechwarrior.xnb","SongProcessor","SongContent",7797298,135,2.993854
+"/Users/ty/Code/SynthSharp/Content/Music/vape.mp3","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Music/vape.xnb","SongProcessor","SongContent",10212643,122,3.848558
+"/Users/ty/Code/SynthSharp/Content/paddle.png","/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/paddle.xnb","TextureProcessor","Texture2DContent",5903,524373,0.01705

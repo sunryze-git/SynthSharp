@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/Users/ty/Code/SynthSharp/Content/Music/menu.mp3</SourceFile>
+  <SourceTime>2024-05-21T12:58:17.4837952-04:00</SourceTime>
+  <DestFile>/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Content/Music/menu.xnb</DestFile>
+  <DestTime>2024-05-21T13:03:33.1493369-04:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Content/Music/menu.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

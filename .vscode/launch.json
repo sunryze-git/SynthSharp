@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET Core Launch (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "buildAndPublish", // The task to execute before the program is launched
+            "program": "${workspaceFolder}/bin/Debug/net6.0/SynthSharp.dll", // Update this to your actual publish location and executable file
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/Users/ty/Code/SynthSharp/Content/Videos/bg.mp4</SourceFile>
+  <SourceTime>2024-05-29T10:37:13.5249154-04:00</SourceTime>
+  <DestFile>/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Content/Videos/bg.xnb</DestFile>
+  <DestTime>2024-05-29T13:30:22.8758527-04:00</DestTime>
+  <Importer>H264Importer</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>VideoProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>/Users/ty/Code/SynthSharp/Content/bin/DesktopGL/Content/Videos/bg.mp4</string>
+  </BuildOutput>
+</PipelineBuildEvent>

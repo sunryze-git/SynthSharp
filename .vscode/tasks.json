@@ -1,0 +1,11 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "buildAndPublish",
+            "command": "dotnet build && dotnet publish ${workspaceFolder}/SynthSharp.csproj -c Release",
+            "type": "shell",
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}
